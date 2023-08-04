@@ -1,7 +1,5 @@
-﻿internal class Program
+internal class Program
 {
-    public static bool True { get; private set; }
-
     private static void Main(string[] args)
     {
         var circle = new Circle();
